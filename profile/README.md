@@ -1,4 +1,4 @@
-[English](#tech-tribute--hello)  |  [فارسی](#)
+[English](#tech-tribute--hello)  |  [فارسی](#tech-tribute--سلام)
 # Tech Tribute : Hello!
 ## Welcome to a Community of Programmers ☕
 The "Technology Donation" forum is a community dedicated to learning and improving programming skills and developing open-source projects. Collaboration and solidarity between all members of this community provide the foundation for achieving these valuable goals.
@@ -11,7 +11,7 @@ Here, you can communicate with other professional programmers and share your exp
 ## Your Support 💎
 Additionally, you can support **Tech Tribute**  Donation by financially contributing to the development and improvement of our educational materials and content.
 
-# Tech Tribute : !سلام 
+# Tech Tribute : سلام
 ## خوش‌آمدید به جامعه ای از برنامه‌نویسان☕️
 انجمن "اهدای تکنولوژی" جامعه‌ای است که هدفش یادگیری و بهبود مهارت‌های برنامه‌نویسی و توسعه پروژه‌های اوپن سورس است. همکاری و همبستگی بین تمامی اعضای این انجمن، زمینه را برای تحقق این هدف‌های ارزشمند فراهم می‌کند. 
 ## تمرکز ما🎯
