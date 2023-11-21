@@ -10,7 +10,7 @@ Individuals interested in topics such as operating systems and security can also
 Here, you can communicate with other professional programmers and share your experiences with them. Anyone interested in learning and improving programming skills can participate in this community.
 ## Your Support 💎
 Additionally, you can support **Tech Tribute**  Donation by financially contributing to the development and improvement of our educational materials and content.
-
+***
 # Tech Tribute : سلام
 ## خوش‌آمدید به جامعه ای از برنامه‌نویسان☕️
 انجمن "اهدای تکنولوژی" جامعه‌ای است که هدفش یادگیری و بهبود مهارت‌های برنامه‌نویسی و توسعه پروژه‌های اوپن سورس است. همکاری و همبستگی بین تمامی اعضای این انجمن، زمینه را برای تحقق این هدف‌های ارزشمند فراهم می‌کند. 
